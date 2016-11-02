@@ -1,12 +1,12 @@
 {
 	"author":"handong",
-	"name":"nodejs",
+	"name":"mytoooool",
 	"version":"0.1.1",
 	"description":"审查文档中的敏感词汇",
-	"main":"hehe",
+	"main":"main",
 	"repository":{
 		"type":"git",
-		"url":""
+		"url":"https://github.com/Mozil11/html5/tree/master/myNodeJs/mytoooool"
 	},
 	"dependencies" : {},
 	"engines" : {
