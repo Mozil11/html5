@@ -1,0 +1,15 @@
+{
+	"author":"handong",
+	"name":"nodejs",
+	"version":"0.1.1",
+	"description":"审查文档中的敏感词汇",
+	"main":"hehe",
+	"repository":{
+		"type":"git",
+		"url":""
+	},
+	"dependencies" : {},
+	"engines" : {
+		"node":"*"
+	}
+}
