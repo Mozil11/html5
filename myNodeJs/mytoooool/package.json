@@ -1,8 +1,8 @@
 {
 	"author":"handong",
 	"name":"mytoooool",
-	"version":"0.1.1",
-	"description":"审查文档中的敏感词汇",
+	"version":"0.1.2",
+	"description":"打印",
 	"main":"main",
 	"repository":{
 		"type":"git",
