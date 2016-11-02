@@ -1,8 +1,9 @@
-function handleDate(){
+function print(msg){
 	
 	var now = new Date();
 	var result = now.getFullYear() + "-" +
 	 (now.getMonth() + 1) + "-" +  now.getDate();
-	return result;
+	 console.log("时间："+result+"打印内容："+msg)；
+	
 }
-exports.handleDate=handleDate;
+exports.print=print;
