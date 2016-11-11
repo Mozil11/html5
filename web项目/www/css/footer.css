@@ -1,0 +1,181 @@
+@charset "utf-8";
+
+.footer_content{
+	width: 1164px;
+	margin: 0 auto;
+}
+/*页脚上*/
+#footer1{
+	width: 100%;
+	height: 220px;
+	background: #f5f5f5;
+}
+
+
+
+/*机场自由行等*/
+#footer1 .footer_content>ul:first-of-type li{
+	float: left;
+	font-size: 18px;
+	background: #62555e;
+	height: 75px;
+	line-height: 75px;
+	padding: 0 40px 0 32px;
+	background: url(../img/images/footer1_li_bg.gif) no-repeat right center;
+}
+#footer1 .footer_content>ul:first-of-type li:first-of-type{
+	padding-left: 23px;
+	padding-right: 32px;
+}
+#footer1 .footer_content>ul:first-of-type li:last-of-type{
+	padding-right: 23px;
+	background: none;
+}
+
+/*脚标*/
+#footer1 .footer_content>ul:last-of-type li{
+	float: left;
+	margin: 37px 56px 0 0;
+}
+#footer1 .footer_content>ul:last-of-type li:last-of-type{
+	margin-right: 0;
+}
+#footer1 .footer_content>ul:last-of-type li img{
+	float: left;
+	margin-right: 19px;
+}
+#footer1 .footer_content>ul:last-of-type li div{
+	float: right;
+}
+#footer1 .footer1_title{
+	font-size: 14px;
+	color: #333335;
+	height: 14px;
+	line-height: 14px;
+	margin-bottom: 7px;
+}
+#footer1 .footer1_content{
+	color: #8b918f;
+	line-height: 18px;
+	width: 274px;
+}
+
+
+/*页脚下*/
+#footer2{
+	width: 100%;
+	height: 264px;
+	background: #333333;
+	padding-top: 48px;
+}
+
+#footer2_1 img{
+	float: left;
+}
+#footer2_1 p{
+	float: left;
+	width: 653px;
+	height: 48px;
+	line-height: 24px;
+	color: #b5cacb;
+	padding: 0 91px 0 25px;
+	font-size: 14px;
+	width: 400px;
+}
+#footer2_1 #gz{
+	float: left;
+	width: 325px;
+	height: 48px;
+	position: relative;
+}
+#footer2_1 #gz span{
+	color: #e3e3e3;
+	display: block;
+	width: 93px;
+	height: 48px;
+	line-height: 48px;
+	padding: 0 11px;
+	font-size: 16px;
+	float: left;
+}
+#footer2_1 #gz ul{
+	width: 232px;
+	height: 48px;
+	margin-left: 0;
+	float: right;
+	position: absolute;
+	top: 3px;
+	left: 65px;
+}
+#footer2_1 #gz li{
+	float: right;
+	width: 48px;
+	height: 48px;
+	margin-left: 5px;
+}
+#footer2_1 #gz li:first-of-type{
+	background: url(../img/images/footer2_gz_email.gif) no-repeat;
+}
+#footer2_1 #gz li:nth-of-type(2){
+	background: url(../img/images/footer2_gz_wb.gif) no-repeat;
+}
+#footer2_1 #gz li:nth-of-type(3){
+	background: url(../img/images/footer2_gz_wx.gif) no-repeat;
+}
+#footer2_1 #gz li:last-of-type{
+	background: url(../img/images/footer2_gz_phone.gif) no-repeat;
+}
+
+#footer2_2{
+	padding-top: 114px;
+	position: relative;
+	font-size: 14px;
+}
+
+#footer2_2>ul:first-of-type li{
+	float: left;
+	background: url(../img/images/footer2_li_bg.gif) no-repeat right center;
+	padding: 7px 15px;
+}
+#footer2_2>ul:first-of-type li:first-of-type{
+	padding-left: 0;
+}
+#footer2_2>ul:first-of-type li:last-of-type{
+	background: none;
+}
+#footer2_2>ul:first-of-type li a{
+	color: #bdb5ca;
+}
+#footer2_2 p{
+	height: 26px;
+	line-height: 26px;
+	color: #bdb5ca;	
+	position: absolute;
+	left: 0;
+	top: 136px;
+}
+
+#footer2_2>ul:last-of-type{
+	height: 26px;
+	line-height: 26px;
+	position: absolute;
+	top: 162px;
+}
+#footer2_2>ul:last-of-type span{
+	float: left;
+	color: #bdb5ca;
+}
+#footer2_2>ul:last-of-type li{
+	float: left;
+	margin-right: 14px;
+}
+#footer2_2>ul:last-of-type li a{
+	color: #bdb5ca;
+}
+#footer1 a:hover{
+	text-decoration: underline;
+	color: #10b032;
+}
+#footer2_2 a:hover{
+	text-decoration: underline;
+}

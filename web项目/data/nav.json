@@ -1,0 +1,53 @@
+[
+	{
+		"name":"首页",
+		"url":"http://z.qyer.com/",
+		"imgUrl":""
+	},
+	{
+		"name":"机酒自由行",
+		"url":"http://z.qyer.com/package/",
+		"imgUrl":""
+	},
+	{
+		"name":"城市玩乐",
+		"url":"http://z.qyer.com/local/",
+		"imgUrl":"http://zworld.qyerstatic.com/web/project/index/images/wanletag.gif"
+	},
+	{
+		"name":"签证",
+		"url":"http://z.qyer.com/visa/",
+		"imgUrl":""
+	},
+	{
+		"name":"租车",
+		"url":"http://z.qyer.com/car/",
+		"imgUrl":""
+	},
+	{
+		"name":"邮轮",
+		"url":"http://z.qyer.com/all_0_0_0_0_158,148_0_0/?_channel=freetour",
+		"imgUrl":""
+	},
+	{
+		"name":"海岛游",
+		"url":"http://z.qyer.com/island/",
+		"imgUrl":""
+	},
+	{
+		"name":"限时特卖",
+		"url":"http://z.qyer.com/sales/",
+		"imgUrl":""
+	},
+	{
+		"name":"特色线路",
+		"url":"http://z.qyer.com/zt/leadertour/",
+		"imgUrl":""
+	},
+
+	{
+		"name":"City Walk",
+		"url":"http://z.qyer.com/citywalk/",
+		"imgUrl":""
+	}
+]

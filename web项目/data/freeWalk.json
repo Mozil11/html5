@@ -1,0 +1,213 @@
+[
+    {
+        "title": "今日热点",
+        "data": [
+            {
+                "title": "全国多地直飞台北2-15天往返含税机票（含7日保险）",
+                "time": "旅行时间 永久有效",
+                "price": 1379,
+                "imgUrl": "http://ww3.sinaimg.cn/large/801b780ajw1f83k1f359qj20go0b475q.jpg"
+            }, {
+                "title": "【国庆假期】西安/长沙直飞悉尼2-30天往返含税机票(赠送WIFI 2天)",
+                "price": 2999,
+                "imgUrl": "http://ww1.sinaimg.cn/large/801b780ajw1f83k1o9m6ij207n055dg5.jpg"
+            }, {
+                "title": "【五一/端午假期】上海直飞科伦坡7天往返含税机票（赠WiFi）",
+                "price": 2499,
+                "imgUrl": "http://ww3.sinaimg.cn/large/801b780ajw1f83k1uscj2j207n055mxe.jpg"
+            }, {
+                "title": "北京直飞日本东京/大阪/冲绳5-6天往返含税机票(双人送wifi)",
+                "price": 999,
+                "imgUrl": "http://ww2.sinaimg.cn/large/801b780ajw1f83k221s38j207n0550te.jpg"
+            }, {
+                "title": "【元旦特惠】天津直飞大阪6-7天往返含税机票",
+                "price": 899,
+                "imgUrl": "http://ww1.sinaimg.cn/large/801b780ajw1f83k28buwkj207n05574w.jpg"
+            }, {
+                "title": "上海/杭州直飞日本多地4-30天往返含税机票(日航/全日空/首都航空等,赠日上免税店打折券)",
+                "price": 888,
+                "imgUrl": "http://ww1.sinaimg.cn/large/801b780ajw1f83k2f831hj207n05574l.jpg"
+            }
+        ]
+    }, {
+        "title": "今日新品",
+        "data": [
+            {
+                "title": "【国庆假期】长沙直飞洛杉矶9天往返含税机票(可配全国联运)",
+                "time": "旅行时间 2016/07-2017/01",
+                "price": 2559,
+                "imgUrl": "http://ww3.sinaimg.cn/large/801b780ajw1f83lt81z9yj20go0b4wgt.jpg"
+            }, {
+                "title": "【五一/端午假期】上海直飞马尼拉5天往返含税机票（赠WiFi）",
+                "price": 1399,
+                "imgUrl": "http://ww3.sinaimg.cn/large/801b780ajw1f83ltetp1xj207n055dga.jpg"
+            }, {
+                "title": "上海迪士尼乐园酒店/玩具总动员酒店单订房+代售迪士尼门票",
+                "price": 928,
+                "imgUrl": "http://ww1.sinaimg.cn/large/801b780ajw1f83ltm76d6j207n0550t3.jpg"
+            }, {
+                "title": "天津直飞曼谷6/7天往返含税机票",
+                "price": 999,
+                "imgUrl": "http://ww2.sinaimg.cn/large/801b780ajw1f83ltreedaj207n0550t1.jpg"
+            }, {
+                "title": "天津直飞北海道函馆6天往返含税机票",
+                "price": 1699,
+                "imgUrl": "http://ww4.sinaimg.cn/large/801b780ajw1f83ltx1v2lj207n055t99.jpg"
+            }, {
+                "title": "广州直飞巴黎/阿姆斯特丹/罗马7-31天往返含税机票（赠10日的保险+全国多城市联运+可任意搭配起止点)",
+                "price": 4599,
+                "imgUrl": "http://ww1.sinaimg.cn/large/801b780ajw1f83lu35sc5j207n0550t0.jpg"
+            }
+        ]
+    }, {
+        "title": "闪购",
+        "data": [
+            {
+                "title": "【赠涂鸦秀门票/中秋假期】北京/上海直飞首尔4天3晚自由行(赠接机,+1元购交通卡/ +5元购演唱会门票)",
+                "time": "旅行时间 2016/02-2016/11",
+                "price": 1899,
+                "imgUrl": "http://ww4.sinaimg.cn/large/801b780ajw1f83lubskglj20go0b4adb.jpg"
+            }, {
+                "title": "上海直飞日本东京/大阪5-6天往返含税机票",
+                "price": 999,
+                "imgUrl": "http://ww2.sinaimg.cn/large/801b780ajw1f83luhx5yrj207n055q34.jpg"
+            }, {
+                "title": "【国庆假期/水灯节】上海直飞清迈6天自由行(可选3-5星古城附近酒店)",
+                "price": 1499,
+                "imgUrl": "http://ww4.sinaimg.cn/large/801b780ajw1f83lunr9w7j207n055q36.jpg"
+            }, {
+                "title": "【国庆假期】澳门直飞美娜多5-6天自由行（赠接送机+半天市区观光）",
+                "price": 2599,
+                "imgUrl": "http://ww3.sinaimg.cn/large/801b780ajw1f83lutvdonj207n055q36.jpg"
+            }, {
+                "title": "全国多地直飞迪拜8-31天往返含税机票（含首晚五星酒店）",
+                "price": 2999,
+                "imgUrl": "http://ww1.sinaimg.cn/large/801b780ajw1f83luziw8fj207n055jrk.jpg"
+            }, {
+                "title": "【899任选】上海直飞富山/新泻/长崎/冈山/广岛/小松/松山4-7天往返含税机票",
+                "price": 899,
+                "imgUrl": "http://ww4.sinaimg.cn/large/801b780ajw1f83lv58pb4j207n0550td.jpg"
+            }
+        ]
+    }, {
+        "title": "国庆出行",
+        "data": [
+            {
+                "title": "【国庆假期】香港/深圳/广州/武汉/杭州直飞沙巴5天4晚自由行（四星酒店/赠送接送机+电话卡）",
+                "time": "旅行时间 2016/08-2017/01",
+                "price": 2199,
+                "imgUrl": "http://ww2.sinaimg.cn/large/801b780ajw1f83lvc3725j20go0b4aaz.jpg"
+            }, {
+                "title": "【国庆假期】广州直飞塞班5-6天自由行",
+                "price": 2799,
+                "imgUrl": "http://ww2.sinaimg.cn/large/801b780ajw1f83lvhls3ij207n055t92.jpg"
+            }, {
+                "title": "【国庆特价】北京/上海/杭州直飞普吉岛6-7天自由行(多航空公司可选)",
+                "price": 1599,
+                "imgUrl": "http://ww3.sinaimg.cn/large/801b780ajw1f83lvnqbz4j207n055mx9.jpg"
+            }, {
+                "title": "【国庆假期】上海直飞沙巴5/6天往返含税机票(赠送电子地图)",
+                "price": 999,
+                "imgUrl": "http://ww3.sinaimg.cn/large/801b780ajw1f83lvtniqaj207n0553yo.jpg"
+            }, {
+                "title": "【国庆假期/水灯节】上海直飞清迈6天自由行(可选3-5星古城附近酒店)",
+                "price": 1499,
+                "imgUrl": "http://ww3.sinaimg.cn/large/801b780ajw1f83lvz2oyfj207n055q36.jpg"
+            }, {
+                "title": "【国庆假期】香港直飞巴厘岛5天往返含税机票（五星航空）",
+                "price": 3999,
+                "imgUrl": "http://ww3.sinaimg.cn/large/801b780ajw1f83lw4t22uj207n055mxb.jpg"
+            }
+        ]
+    }, {
+        "title": "超值机票",
+        "data": [
+            {
+                "title": "【超值特惠】上海直飞泰国多城市6-10天往返含税机票(清迈/普吉/曼谷多套餐可选)",
+                "time": "旅行时间 2016/07-2016/10",
+                "price": 899,
+                "imgUrl": "http://ww1.sinaimg.cn/large/801b780ajw1f83lwbjvjpj20go0b440t.jpg"
+            }, {
+                "title": "【拒签全退】上海往返欧洲多地6-30天含税机票",
+                "price": 3899,
+                "imgUrl": "http://ww2.sinaimg.cn/large/801b780ajw1f83lwk57t7j207n055wf2.jpg"
+            }, {
+                "title": "北京往返日本福冈3-30天含税机票(赠航空意外险,两人起订)",
+                "price": 1399,
+                "imgUrl": "http://ww4.sinaimg.cn/large/801b780ajw1f83lwphy53j207n055js2.jpg"
+            }, {
+                "title": "【十一假期】香港/深圳/澳门直飞日本多地5-7天往返机票（赠送日本签证/可选单机票）",
+                "price": 1430,
+                "imgUrl": "http://ww3.sinaimg.cn/large/801b780ajw1f83lwvczqvj207n0550t3.jpg"
+            }, {
+                "title": "全国多地往返曼谷5-15天含税机票(含接送机)",
+                "price": 999,
+                "imgUrl": "http://ww2.sinaimg.cn/large/801b780ajw1f83lx13ur9j207n055dg4.jpg"
+            }, {
+                "title": "【拒签退款/开口票】北京/上海直飞美国多地3-29天往返含税机票(可配全国多地联运及可同舱位改签)",
+                "price": 3679,
+                "imgUrl": "http://ww3.sinaimg.cn/large/801b780ajw1f83lx7qdvjj207n055gm6.jpg"
+            }
+        ]
+    }, {
+        "title": "热门海岛",
+        "data": [
+            {
+                "title": "【特惠！】上海直飞马尔代夫太阳岛6天4晚/7天5晚自由行(上海航空/美佳航空可选+2晚沙滩屋和2晚水屋+含早餐和晚餐)",
+                "time": "旅行时间 2016/10-2016/12",
+                "price": 9980,
+                "imgUrl": "http://ww3.sinaimg.cn/large/801b780ajw1f83lxdlk0vj20go0b4abw.jpg"
+            }, {
+                "title": "【国庆】澳门往返帕劳6-7天自由行（任选星级酒店+多款热销精品出海套餐+赠送独家无重装潜水/电话卡/水下相机/ SPA等9项超值礼包）",
+                "price": 2499,
+                "imgUrl": "http://ww2.sinaimg.cn/large/801b780ajw1f83lxj7xxzj207n0550t4.jpg"
+            }, {
+                "title": "【国庆假期】香港/深圳/广州/武汉/杭州直飞沙巴5天4晚自由行（四星酒店/赠送接送机+电话卡）",
+                "price": 2199,
+                "imgUrl": "http://ww1.sinaimg.cn/large/801b780ajw1f83lxosn8kj207n055aa4.jpg"
+            }, {
+                "title": "成都/重庆直飞苏梅/甲米/普吉岛7-8天往返含税机票",
+                "price": 680,
+                "imgUrl": "http://ww3.sinaimg.cn/large/801b780ajw1f83lxuqz7wj207n055mxl.jpg"
+            }, {
+                "title": "北京/香港直飞塞班岛5-7天自由行（赠接送机+环岛游；香港出发额外赠军舰岛游）",
+                "price": 5999,
+                "imgUrl": "http://ww2.sinaimg.cn/large/801b780ajw1f83ly0obwsj207n055t8z.jpg"
+            }, {
+                "title": "【国庆】香港/澳门直飞帕劳5-6天自由行(多酒店可选/赠中文接送机)",
+                "price": 1780,
+                "imgUrl": "http://ww3.sinaimg.cn/large/801b780ajw1f83ly5otmfj207n055dg4.jpg"
+            }
+        ]
+    }, {
+        "title": "热门推荐",
+        "data": [
+            {
+                "title": "杭州直飞苏梅岛5-6天往返含税机票",
+                "time": "旅行时间 2016/09-2017/01",
+                "price": 1999,
+                "imgUrl": "http://ww1.sinaimg.cn/large/801b780ajw1f83lyn7q5lj20go0b476r.jpg"
+            }, {
+                "title": "上海直飞斯里兰卡8天往返机票（赠送首晚住宿+签证）",
+                "price": 3899,
+                "imgUrl": "http://ww1.sinaimg.cn/large/801b780ajw1f83lyscbw3j207n055aa8.jpg"
+            }, {
+                "title": "北京/天津直飞苏梅岛5-6天往返含税机票（包机直飞本岛）",
+                "price": 888,
+                "imgUrl": "http://ww4.sinaimg.cn/large/801b780ajw1f83lyxy7hej207n055jri.jpg"
+            }, {
+                "title": "北京/上海/南京/广州/厦门出发台北3-14天马拉松机票套餐（含赛事报名费）",
+                "price": 2499,
+                "imgUrl": "http://ww3.sinaimg.cn/large/801b780ajw1f83lz3ds4uj207n055glt.jpg"
+            }, {
+                "title": "【国庆特惠】上海直飞名古屋+大阪/东京(茨城)/高松6-8天往返含税机票(可选含1晚酒店)",
+                "price": 599,
+                "imgUrl": "http://ww3.sinaimg.cn/large/801b780ajw1f83lz89uudj207n05574l.jpg"
+            }, {
+                "title": "【国庆假期】天津直飞济州岛4-5天自由行(可选五星酒店)",
+                "price": 1555,
+                "imgUrl": "http://ww3.sinaimg.cn/large/801b780ajw1f83lzd6zlmj207n055glz.jpg"
+            }
+        ]
+    }
+]
